@@ -15,5 +15,11 @@ Q.12 [WAP to reverse a String.](./l_12.java)
 Q.13 [WAP to check for prime number.](./m_13.java)
 Q.14 [WAP to print all prime numbers between 1-100.](./n_14.java)
 Q.15 [WAP to print Fibonacci series. ](./o_15.java)
+Q.16 [WAP to print Fibonacci series using recursion.](./p_16.java)
+Q.17 [WAP to check for palindrome number.](./q_17.java)
+Q.18 [WAP to check for palindrome String.](./r_18.java)
+
+
+
 
 
