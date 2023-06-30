@@ -18,6 +18,9 @@ Q.15 [WAP to print Fibonacci series. ](./o_15.java)
 Q.16 [WAP to print Fibonacci series using recursion.](./p_16.java)
 Q.17 [WAP to check for palindrome number.](./q_17.java)
 Q.18 [WAP to check for palindrome String.](./r_18.java)
+Q.19 [WAP to check for Armstrong number.](./s_19.java)
+Q.20 [WAP to check for Armstrong 1 to 500.](./t_20.java)
+
 
 
 
