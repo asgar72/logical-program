@@ -20,6 +20,9 @@ Q.17 [WAP to check for palindrome number.](./q_17.java)
 Q.18 [WAP to check for palindrome String.](./r_18.java)
 Q.19 [WAP to check for Armstrong number.](./s_19.java)
 Q.20 [WAP to check for Armstrong 1 to 500.](./t_20.java)
+Q.21 [WAP to print the all prime number between two numbers.](./u_21.java)
+Q.22 [WAP to check give number is special or not ?](./v_22.java)
+
 
 
 
